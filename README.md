@@ -1,7 +1,7 @@
 ## Welcome to Gamey
 Gamey is a Game Archiving App similar to BlueMaxima's Flashpoint.
 
-To use Gamey, download the latest release on github, or go to https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/.
+To use Gamey, download the latest release on Github (https://github.com/lolghuiy4tgfyu4th7tvtg/gamey), or go to https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/.
 
 ### How Gamey Gets Games
 To get the Flash and HTML games that gamey uses, it uses a game map on the gamey website. Usually, the files
