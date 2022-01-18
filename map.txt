@@ -7,5 +7,6 @@ GTTTATINT Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-colo
 GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf|Get to the Top Although There is no Top
 Platformers|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/|catergory
 BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Platformers
+Give Up|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/giveup.swf|swf|Platformers
 
 |end|
