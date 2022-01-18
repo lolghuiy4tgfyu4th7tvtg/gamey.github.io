@@ -5,6 +5,7 @@ GTTTATINT 3D|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag3d.swf|s
 GTTTATINT Lava|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_lava.swf|swf|Get to the Top Although There is no Top
 GTTTATINT Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-color.swf|swf|Get to the Top Although There is no Top
 GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf|Get to the Top Although There is no Top
-BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Get to the Top Although There is no Top
+Platformers|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/|catergory
+BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Platformers
 
 |end|
