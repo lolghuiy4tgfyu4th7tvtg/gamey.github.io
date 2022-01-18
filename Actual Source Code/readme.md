@@ -5,7 +5,9 @@ Yay! You Made it past the Website Stuff! This is _only_ the source code of Gamey
 But, Gamey is written in Python and requires several dependencies ...
 These dependencies are ...
 > Tkinter 8.6+ and ttkbootstrap
+> 
 > Pathlib
+> 
 > and Requests
 
 You can install these using these commands (if python is in your path)
