@@ -8,5 +8,7 @@ GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/aweso
 Platformers|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/|catergory
 BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Platformers
 Give Up|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/giveup.swf|swf|Platformers
+Chompster|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/chompster.swf|swf|Platformers
+Goime 500|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/goime500.swf|swf|Platformers
 
 |end|
