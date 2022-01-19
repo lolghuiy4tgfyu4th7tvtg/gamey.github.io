@@ -24,5 +24,9 @@ Bloxorz|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/bloxors.swf|swf|Pu
 Cube Roll|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/cuberoll.swf|swf|Puzzle
 No Walking, No Problem|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/nwnp.swf|swf|Puzzle
 Bubble Spinner|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/bubblespinner.swf|swf|Puzzle
+Racing|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/|catergory
+Coaster Racer|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/coasterracer.swf|swf|Racing
+Dirt Bike Championship|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/dirt-bike-championship.swf|swf|Racing
+Racing Extreme|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/racing.swf|swf|Racing
 
 |end|
