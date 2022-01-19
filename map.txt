@@ -19,5 +19,10 @@ Cube Field|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/cubefiel
 Don't Shoot the Puppy|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/dont-shoot-the-puppy.swf|swf|Other
 Interactive Buddy|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/interactive-buddy.swf|swf|Other
 Super Smash Flash (archive.org)|https://archive.org/download/ssf_20220119/SSF.swf|swf|Other
+Puzzle|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/|catergory
+Bloxorz|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/bloxors.swf|swf|Puzzle
+Cube Roll|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/cuberoll.swf|swf|Puzzle
+No Walking, No Problem|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/nwnp.swf|swf|Puzzle
+Bubble Spinner|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/bubblespinner.swf|swf|Puzzle
 
 |end|
