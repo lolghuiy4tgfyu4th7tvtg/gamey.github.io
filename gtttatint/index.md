@@ -10,11 +10,12 @@ This is all GTTTATINT Games available on Gamey Desktop
 
 [GTTTATINT 3D](https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag3d.swf)
 
-[GTTTATINT Original](https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf)
+[GTTTATINT Lava](https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_lava.swf)
 
-[GTTTATINT Original](https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf)
+[GTTTATINT Color](https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-color.swf)
 
-[GTTTATINT Original](https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf)
+[GTTTATINT Bullets](https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf)
+
 
 
 [Back](https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/)
