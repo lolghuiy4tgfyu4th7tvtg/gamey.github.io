@@ -13,5 +13,8 @@ Goime 500|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/goime500.swf
 Arcade|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/|catergory
 Learn to Fly|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/learntofly.swf|swf|Arcade
 Pacman|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/pacman.swf|swf|Arcade
+Other|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/|catergory
+Bubble Shooter|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/bubble-shooter.swf|swf|Other
+Cube Field|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/cubefield.swf|swf|Other
 
 |end|
