@@ -17,6 +17,8 @@ BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|s
 Give Up|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/giveup.swf|swf|Platformers
 Chompster|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/chompster.swf|swf|Platformers
 Goime 500|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/goime500.swf|swf|Platformers
+Idle|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/|catergory
+Cookie Clicker (HTML)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/cookie-clicker-new.zip|html|Arcade
 Arcade|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/|catergory
 Learn to Fly|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/learntofly.swf|swf|Arcade
 Pacman|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/pacman.swf|swf|Arcade
