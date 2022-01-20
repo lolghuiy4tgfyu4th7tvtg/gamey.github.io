@@ -11,8 +11,8 @@ GTTTATINT Super Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttati
 GTTTATINT Different Platforms Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplatauto.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Fight Against the Spikes|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-fats.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Mission: Possible|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agquest.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Rocket|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fuel.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Skiing|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_ski.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Rocket|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fuel.swf|swf|Get to the Top Although There is no Top|None|Zoom! Fly into the sky! Don't know how? Read the instructions!
+GTTTATINT Skiing|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_ski.swf|swf|Get to the Top Although There is no Top|None|You're skiing!… backwards. This variation is most unlike the others. It's not even a platformer! Here's what you do: Ski over the blue platforms, but not the gray ones. Don't get too close to the wall on the right, because it will suck into itself and then push you back out, possibly over gray platforms!
 GTTTATINT Slow Motion|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_slow.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Fast Forward|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fast.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf|Get to the Top Although There is no Top|Graphics
