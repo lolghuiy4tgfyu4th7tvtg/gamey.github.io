@@ -1,5 +1,5 @@
 Get to the Top Although There is no Top|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/|catergory
-GTTTATINT Original|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf|swf|Get to the Top Although There is no Top|Popular
+GTTTATINT Original|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf|swf|Get to the Top Although There is no Top|Classic
 GTTTATINT 2|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/gtttatint2.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT 3D|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag3d.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Lava|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_lava.swf|swf|Get to the Top Although There is no Top|None
@@ -11,6 +11,8 @@ GTTTATINT Super Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttati
 GTTTATINT Different Platforms Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplatauto.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Fight Against the Spikes|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-fats.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Mission: Possible|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agquest.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Rocket|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fuel.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Skiing|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_ski.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Slow Motion|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_slow.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Fast Forward|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fast.swf|swf|Get to the Top Although There is no Top|None
 GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf|Get to the Top Although There is no Top|Graphics
@@ -25,7 +27,7 @@ Goime 500|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/goime500.swf
 Idle|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/|catergory
 Cookie Clicker (HTML)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/cookie-clicker-new.zip|html|Idle|None
 Arcade|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/|catergory
-Infection - CodenameRed|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/infection-codenamered.zip|html|Arcade|None
+Infection - CodenameRed@scratch.mit.edu|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/infection-codenamered.zip|html|Arcade|None
 Learn to Fly|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/learntofly.swf|swf|Arcade|None
 Pacman|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/pacman.swf|swf|Arcade|None
 Puzzle|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/|catergory
