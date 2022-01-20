@@ -1,52 +1,47 @@
 Get to the Top Although There is no Top|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/|catergory
-{Separator}|Popular|Get to the Top Although There is no Top
-GTTTATINT Original|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf|swf|Get to the Top Although There is no Top
-GTTTATINT 2|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/gtttatint2.swf|swf|Get to the Top Although There is no Top
-GTTTATINT 3D|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag3d.swf|swf|Get to the Top Although There is no Top
-GTTTATINT Lava|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_lava.swf|swf|Get to the Top Although There is no Top
-{Separator}|Color|Get to the Top Although There is no Top
-GTTTATINT Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-color.swf|swf|Get to the Top Although There is no Top
-GTTTATINT More Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-morecolor.swf|swf|Get to the Top Although There is no Top
-{Separator}|Platforms|Get to the Top Although There is no Top
-GTTTATINT Different Platforms|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplat.swf|swf|Get to the Top Although There is no Top
-{Separator}|Gameplay|Get to the Top Although There is no Top
-GTTTATINT Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agauto.swf|swf|Get to the Top Although There is no Top
-GTTTATINT Super Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agautosuper.swf|swf|Get to the Top Although There is no Top
-GTTTATINT Different Platforms Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplatauto.swf|swf|Get to the Top Although There is no Top
-GTTTATINT Fight Against the Spikes|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-fats.swf|swf|Get to the Top Although There is no Top
-GTTTATINT Mission: Possible|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agquest.swf|swf|Get to the Top Although There is no Top
-GTTTATINT Slow Motion|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_slow.swf|swf|Get to the Top Although There is no Top
-GTTTATINT Fast Forward|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fast.swf|swf|Get to the Top Although There is no Top
-{Separator}|Graphics|Get to the Top Although There is no Top
-GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf|Get to the Top Although There is no Top
-GTTTATINT BFDI|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-bfdi.swf|swf|Get to the Top Although There is no Top
-GTTTATINT Sad|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agsad.swf|swf|Get to the Top Although There is no Top
-GTTTATINT Other Options|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_oo.swf|swf|Get to the Top Although There is no Top
+GTTTATINT Original|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf|swf|Get to the Top Although There is no Top|Popular
+GTTTATINT 2|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/gtttatint2.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT 3D|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag3d.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Lava|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_lava.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-color.swf|swf|Get to the Top Although There is no Top|Color
+GTTTATINT More Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-morecolor.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Different Platforms|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplat.swf|swf|Get to the Top Although There is no Top|Platforms
+GTTTATINT Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agauto.swf|swf|Get to the Top Although There is no Top|Gameplay
+GTTTATINT Super Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agautosuper.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Different Platforms Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplatauto.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Fight Against the Spikes|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-fats.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Mission: Possible|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agquest.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Slow Motion|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_slow.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Fast Forward|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fast.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf|Get to the Top Although There is no Top|Graphics
+GTTTATINT BFDI|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-bfdi.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Sad|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agsad.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Other Options|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_oo.swf|swf|Get to the Top Although There is no Top|None
 Platformers|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/|catergory
-BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Platformers
-Give Up|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/giveup.swf|swf|Platformers
-Chompster|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/chompster.swf|swf|Platformers
-Goime 500|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/goime500.swf|swf|Platformers
+BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Platformers|None
+Give Up|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/giveup.swf|swf|Platformers|None
+Chompster|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/chompster.swf|swf|Platformers|None
+Goime 500|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/goime500.swf|swf|Platformers|None
 Idle|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/|catergory
-Cookie Clicker (HTML)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/cookie-clicker-new.zip|html|Idle
+Cookie Clicker (HTML)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/cookie-clicker-new.zip|html|Idle|None
 Arcade|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/|catergory
-Learn to Fly|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/learntofly.swf|swf|Arcade
-Pacman|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/pacman.swf|swf|Arcade
+Learn to Fly|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/learntofly.swf|swf|Arcade|None
+Pacman|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/pacman.swf|swf|Arcade|None
 Puzzle|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/|catergory
-Bloxorz|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/bloxors.swf|swf|Puzzle
-Cube Roll|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/cuberoll.swf|swf|Puzzle
-No Walking, No Problem|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/nwnp.swf|swf|Puzzle
-Bubble Spinner|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/bubblespinner.swf|swf|Puzzle
+Bloxorz|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/bloxors.swf|swf|Puzzle|None
+Cube Roll|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/cuberoll.swf|swf|Puzzle|None
+No Walking, No Problem|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/nwnp.swf|swf|Puzzle|None
+Bubble Spinner|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/bubblespinner.swf|swf|Puzzle|None
 Racing|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/|catergory
-Coaster Racer|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/coasterracer.swf|swf|Racing
-Dirt Bike Championship|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/dirt-bike-championship.swf|swf|Racing
-Racing Extreme|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/racing.swf|swf|Racing
+Coaster Racer|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/coasterracer.swf|swf|Racing|None
+Dirt Bike Championship|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/dirt-bike-championship.swf|swf|Racing|None
+Racing Extreme|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/racing.swf|swf|Racing|None
 Other|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/|catergory
-Bubble Shooter|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/bubble-shooter.swf|swf|Other
-Cube Field|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/cubefield.swf|swf|Other
-Don't Shoot the Puppy|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/dont-shoot-the-puppy.swf|swf|Other
-Interactive Buddy|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/interactive-buddy.swf|swf|Other
-Shopping Cart Hero|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/shoppingcart.swf|swf|Other
-Super Smash Flash (archive.org)|https://archive.org/download/ssf_20220119/SSF.swf|swf|Other
+Bubble Shooter|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/bubble-shooter.swf|swf|Other|None
+Cube Field|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/cubefield.swf|swf|Other|None
+Don't Shoot the Puppy|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/dont-shoot-the-puppy.swf|swf|Other|None
+Interactive Buddy|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/interactive-buddy.swf|swf|Other|None
+Shopping Cart Hero|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/other-or-misc/shoppingcart.swf|swf|Other|None
+Super Smash Flash (archive.org)|https://archive.org/download/ssf_20220119/SSF.swf|swf|Other|None
 
 |end|
