@@ -1,29 +1,29 @@
 Get to the Top Although There is no Top|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/|catergory
-GTTTATINT Original|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf|swf|Get to the Top Although There is no Top|Classic
-GTTTATINT 2|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/gtttatint2.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT 3D|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag3d.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Lava|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_lava.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-color.swf|swf|Get to the Top Although There is no Top|Color
-GTTTATINT More Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-morecolor.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Different Platforms|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplat.swf|swf|Get to the Top Although There is no Top|Platforms
-GTTTATINT Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agauto.swf|swf|Get to the Top Although There is no Top|Gameplay
-GTTTATINT Super Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agautosuper.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Different Platforms Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplatauto.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Fight Against the Spikes|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-fats.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Mission: Possible|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agquest.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Original|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf|swf|Get to the Top Although There is no Top|Classic|Cary's original platformer!
+GTTTATINT 2|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/gtttatint2.swf|swf|Get to the Top Although There is no Top|None|Version two:\nYou can buy new features!\nBetter player control!\nSound!\nEnhanced graphics!
+GTTTATINT 3D|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag3d.swf|swf|Get to the Top Although There is no Top|None|A whole new 3D game based on the original GTTTATINT! platformer! Good ol' Sticky is now crossing a dangerously deteriorating bridge!\nUnfortunately, he can't swim! It's your job to keep that little guy from drowning!
+GTTTATINT Lava|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_lava.swf|swf|Get to the Top Although There is no Top|None|Avoid that rising lava, ‘cuz it's hot!
+GTTTATINT Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-color.swf|swf|Get to the Top Although There is no Top|Color|Ever played Agnry Faic?
+GTTTATINT More Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-morecolor.swf|swf|Get to the Top Although There is no Top|None|More cultural diversity.
+GTTTATINT Different Platforms|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplat.swf|swf|Get to the Top Although There is no Top|Platforms|These new-fangled styled platforms are now in the style of style!\nThere's a new stylish style of style every forty stylish platforms!
+GTTTATINT Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agauto.swf|swf|Get to the Top Although There is no Top|Gameplay|Sit back and relax as the computer does the playing for you! It still can fail, though. \nYes, yes, the computer does have advantages. It can jump enormously high, and it has crazy control!
+GTTTATINT Super Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agautosuper.swf|swf|Get to the Top Although There is no Top|None|Just like Automatic, but with even more crazy control! He can still fail!
+GTTTATINT Different Platforms Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplatauto.swf|swf|Get to the Top Although There is no Top|None|New-fangled technology has brought us to a world where our computers play their games for us!\nAnd unlike the other version, it has the same level of control as you! Now sit back and relax!
+GTTTATINT Fight Against the Spikes|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-fats.swf|swf|Get to the Top Although There is no Top|None|Spikes! Yikes! They're after you! Shoo ’em away and they'll just keep comin’ back!\nRead the instructions!
+GTTTATINT Mission: Possible|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agquest.swf|swf|Get to the Top Although There is no Top|None|Carry out missions and see the smiley face at the end!
 GTTTATINT Rocket|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fuel.swf|swf|Get to the Top Although There is no Top|None|Zoom! Fly into the sky! Don't know how? Read the instructions!
 GTTTATINT Skiing|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_ski.swf|swf|Get to the Top Although There is no Top|None|You're skiing!… backwards. This variation is most unlike the others. It's not even a platformer!\nHere's what you do: Ski over the blue platforms, but not the gray ones. Don't get too close to the wall on the right,\nbecause it will suck into itself and then push you back out, possibly over gray platforms!
-GTTTATINT Slow Motion|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_slow.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Fast Forward|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fast.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf|Get to the Top Although There is no Top|Graphics
-GTTTATINT BFDI|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-bfdi.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Sad|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agsad.swf|swf|Get to the Top Although There is no Top|None
-GTTTATINT Other Options|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_oo.swf|swf|Get to the Top Although There is no Top|None
+GTTTATINT Slow Motion|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_slow.swf|swf|Get to the Top Although There is no Top|None|100% Genuine Slow Motion! Note: You can get paralyzed.
+GTTTATINT Fast Forward|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fast.swf|swf|Get to the Top Although There is no Top|None|It's like you're pressing "Fast Forward" on your VCR!
+GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf|Get to the Top Although There is no Top|Graphics|They'll knock your socks off!
+GTTTATINT BFDI|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-bfdi.swf|swf|Get to the Top Although There is no Top|None|Battle for Dream Island characters.
+GTTTATINT Sad|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agsad.swf|swf|Get to the Top Although There is no Top|None|BOO-HOO-HOO! WAAAAAAAH!
+GTTTATINT Other Options|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_oo.swf|swf|Get to the Top Although There is no Top|None|Change the options! There are different things!\nNote: "Off Center" and the gray half-cloud are oblivious to bullets. And the "big" bullets only look big.
 Platformers|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/|catergory
-BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Platformers|None
+BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Platformers|None|This game is part of Battle for Dream Island.
 Give Up|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/giveup.swf|swf|Platformers|None
-Chompster|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/chompster.swf|swf|Platformers|None
-Goime 500|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/goime500.swf|swf|Platformers|None
+Chompster|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/chompster.swf|swf|Platformers|None|This is Chompster, developed in early 2009, last edited on January 18, 2013.
+Goime 500|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/goime500.swf|swf|Platformers|None|A platformer with an unprecedented five hundred achievements.\nWARNING: If your computer runs this game slower than 15 fps, completing the game may be near-impossible. If so, you can play the old version (below) which has a clunkier frame-based timer.\nHOWEVER, if you want to stick with this new version, but can't get your framerate high enough to get the speedier achievements,\ntry turning the quality to low (press Q) or zooming out (clicking outside of the Flash window, and pressing Control-Minus). These changes might increase your framerate.
 Idle|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/|catergory
 Cookie Clicker (HTML)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/cookie-clicker-new.zip|html|Idle|None
 Arcade|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/|catergory
