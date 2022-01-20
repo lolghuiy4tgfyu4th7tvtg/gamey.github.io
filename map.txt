@@ -25,6 +25,7 @@ Goime 500|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/goime500.swf
 Idle|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/|catergory
 Cookie Clicker (HTML)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/idle/cookie-clicker-new.zip|html|Idle|None
 Arcade|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/|catergory
+Infection - CodenameRed@scratch.mit.edu|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/infection-codenamered.zip|html|Arcade|None
 Learn to Fly|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/learntofly.swf|swf|Arcade|None
 Pacman|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/arcade/pacman.swf|swf|Arcade|None
 Puzzle|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/puzzle/|catergory
