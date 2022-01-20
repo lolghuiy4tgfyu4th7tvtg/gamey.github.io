@@ -3,12 +3,17 @@ GTTTATINT Original|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awes
 GTTTATINT 2|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/gtttatint2.swf|swf|Get to the Top Although There is no Top
 GTTTATINT 3D|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag3d.swf|swf|Get to the Top Although There is no Top
 GTTTATINT Lava|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_lava.swf|swf|Get to the Top Although There is no Top
+{Separator}|Color|Get to the Top Although There is no Top
 GTTTATINT Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-color.swf|swf|Get to the Top Although There is no Top
 GTTTATINT More Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-morecolor.swf|swf|Get to the Top Although There is no Top
 GTTTATINT Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agauto.swf|swf|Get to the Top Although There is no Top
+GTTTATINT Super Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agautosuper.swf|swf|Get to the Top Although There is no Top
+GTTTATINT Different Platforms|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplat.swf|swf|Get to the Top Although There is no Top
+GTTTATINT Different Platforms Automatic|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-difplatauto.swf|swf|Get to the Top Although There is no Top
 GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf|Get to the Top Although There is no Top
 GTTTATINT BFDI|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-bfdi.swf|swf|Get to the Top Although There is no Top
 GTTTATINT Sad|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agsad.swf|swf|Get to the Top Although There is no Top
+GTTTATINT Mission: Possible|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agquest.swf|swf|Get to the Top Although There is no Top
 GTTTATINT Other Options|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_oo.swf|swf|Get to the Top Although There is no Top
 GTTTATINT Slow Motion|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_slow.swf|swf|Get to the Top Although There is no Top
 GTTTATINT Fast Forward|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_fast.swf|swf|Get to the Top Although There is no Top
