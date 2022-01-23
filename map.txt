@@ -39,6 +39,8 @@ Animations|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/anim/|catergory
 Season 1 (SSSFS)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/anim/sssfs-s1.swf|swf|Animations|The Super-Short Stick Figure Show!|The first set of zany, super-short, three-second-long shorts!
 Season 2 (SSSFS)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/anim/sssfs2.swf|swf|Animations|None|We squeezed out some more creative juice to make yet another witty set of short shorts!
 Season 3 (SSSFS)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/anim/sssfs3.swf|swf|Animations|None|The (overdue) Easter (Egg) Special-Edition season, with super-secret secrets for (post-) Easter!\nTry to find the super-secret secrets with secret letters that make up a secret code that unlocks a secret secret!
+Mountain Video (Looping!)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/anim/mntn-vid.zip|html|Animations|Other|A Looping Video! The video was made with Blender (blender.org)\n*WARNING* This file is large (≈80.2 MB) so it may take a LONG time to download and may take up a lot of space.
+
 Racing|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/|catergory
 Coaster Racer|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/coasterracer.swf|swf|Racing|None|A flash game by LongAnimals where you race against other racers in a 3d landscape.
 Dirt Bike Championship|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/racing/dirt-bike-championship.swf|swf|Racing|None|In this head-to-head racing game you drive against a computer controlled biker dude.\nUse your arrow keys to ride your bike and try to win the race.
