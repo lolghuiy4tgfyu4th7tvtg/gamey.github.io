@@ -20,6 +20,7 @@ GTTTATINT BFDI|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-bfdi.
 GTTTATINT Sad|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agsad.swf|swf|Get to the Top Although There is no Top|None|BOO-HOO-HOO! WAAAAAAAH!
 GTTTATINT Other Options|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_oo.swf|swf|Get to the Top Although There is no Top|None|Change the options! There are different things!\nNote: "Off Center" and the gray half-cloud are oblivious to bullets. And the "big" bullets only look big.
 Platformers|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/|catergory
+Appel - griffpatch|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/appel-clone.zip|html|Platformers|None|Description is too long\nFull Descrtption is at: https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/appel-desc.html
 BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Platformers|None|This game is part of Battle for Dream Island.
 Give Up|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/giveup.swf|swf|Platformers|None
 Chompster|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/chompster.swf|swf|Platformers|None|This is Chompster, developed in early 2009, last edited on January 18, 2013.
