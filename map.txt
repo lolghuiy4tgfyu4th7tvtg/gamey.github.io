@@ -19,6 +19,7 @@ GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/aweso
 GTTTATINT BFDI|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-bfdi.swf|swf|Get to the Top Although There is no Top|None|Battle for Dream Island characters.
 GTTTATINT Sad|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agsad.swf|swf|Get to the Top Although There is no Top|None|BOO-HOO-HOO! WAAAAAAAH!
 GTTTATINT Other Options|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_oo.swf|swf|Get to the Top Although There is no Top|None|Change the options! There are different things!\nNote: "Off Center" and the gray half-cloud are oblivious to bullets. And the "big" bullets only look big.
+GTTTATINT Other Options 2 (and movie)|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/agoo2.swf|swf|Get to the Top Although There is no Top|None|More options, and you can watch a movie and battle Pac-Man ghosts on your way!
 Platformers|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/|catergory
 Appel - Griffpatch|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/appel-clone.zip|html|Platformers|None|
 BFDIA 5b|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/platformer/Bfdia5B.zip|swf_package|Platformers|None|This game is part of Battle for Dream Island.
