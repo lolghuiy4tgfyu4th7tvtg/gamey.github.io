@@ -9,4 +9,4 @@ are downloaded either from the Internet Archive (http://archive.org/) or one of 
 (http://byte127x.github.io/ or https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/)
 
 ### How to download Gamey?
-You can't right now, it is still in development.
+You can go to the "Actual Source Code" folder in this repository, or go to the releases tab.
