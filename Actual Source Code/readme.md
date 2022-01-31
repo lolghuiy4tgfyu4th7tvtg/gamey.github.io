@@ -1,5 +1,6 @@
 ## Welcome to the Source Code
 Yay! You Made it past the Website Stuff! This is _only_ the source code of Gamey
+> By the way, Gamey requires the internet to set up
 
 [This is the source code for the first version btw](https://github.com/lolghuiy4tgfyu4th7tvtg/gamey/files/7892967/Source.Code.zip)
 
