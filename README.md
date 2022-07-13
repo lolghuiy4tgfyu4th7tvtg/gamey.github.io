@@ -1,27 +1,12 @@
-## Welcome to the Source Code
-Yay! You Made it past the Website Stuff! This is _only_ the source code of Gamey
-> This is not the regular version of Gamey, as it requires nw.js in the "HTML Runtime" folder
+## Welcome to Gamey
+Gamey is a Game Archiving App similar to BlueMaxima's Flashpoint.
 
-[This is the source code for the first version btw](https://github.com/lolghuiy4tgfyu4th7tvtg/gamey/files/7892967/Source.Code.zip)
+To use Gamey, download the latest release on Github (https://github.com/lolghuiy4tgfyu4th7tvtg/gamey), or go to https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/.
 
-But, Gamey is written in Python and requires several dependencies, and
-these dependencies are ...
-> Tkinter 8.6+ and ttkbootstrap
-> 
-> Pathlib
-> 
-> and Requests
+### How Gamey Gets Games
+To get the Flash and HTML games that gamey uses, it uses a game map on the gamey website. Usually, the files
+are downloaded either from the Internet Archive (http://archive.org/) or one of my websites 
+(http://byte127x.github.io/ or https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/)
 
-You can install these using these commands (if python is in your path)
-```
-pip install ttkbootstrap
-pip install tk
-pip install requests
-```
-This program is still in development (this is literally the first version)
-so, be sure to report any bugs you have with the software!
-
-Bye!
-
-
-Gamey by lolghuiy4tgfyu4th7tvtg (byte127x)
+### How to download Gamey?
+You can go to the "Actual Source Code" folder in this repository, or go to the releases tab.

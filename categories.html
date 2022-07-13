@@ -1,0 +1,96 @@
+<head>
+	<title>Gamey</title>
+	<link rel="stylesheet" type="text/css" media="screen" href="gtttatint/style.css">
+	<style>
+		.blue-btn {
+			background: lightblue;
+			padding: 8px;
+			padding-left: 12px;
+			padding-right: 12px;
+		}
+
+		.card {
+			/* Add shadows to create the "card" effect */
+			box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+			transition: 0.3s;
+			height: 100%;
+		}
+
+		/* On mouse-over, add a deeper shadow */
+		.card:hover {
+			box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+		}
+
+		/* Add some padding inside the card container */
+		.container {
+			padding-bottom: 2px;
+			padding-left: 16px;
+			padding-right: 16px;
+		}
+
+		#cardholder {
+			display: grid;
+			grid-template-columns: auto auto auto auto auto;
+			column-gap: 16px;
+			margin: 16px;
+		}
+
+	</style>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+	<nav>
+		<a href='index.html' class='navbar-anchors'>Home</a>
+		<a href='categories.html' class='navbar-anchors'>Categories</a>
+		<a href='https://github.com/lolghuiy4tgfyu4th7tvtg/gamey' class='navbar-anchors'>Github</a>
+		<a href='https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/readme/' class='navbar-anchors'>README</a>
+	</nav>
+
+	<div id="main_content_wrap" class="outer">
+		<center>
+			<br>
+			<h1 id="gtttatint-gamey-folder">Categories</h1>
+			<br>
+		</center>
+
+		<div id='cardholder'>
+
+			<div class="card">
+				<center>
+					<a href='https://github.com/lolghuiy4tgfyu4th7tvtg/gamey'><img src='web-icons/github-logo.png'  id='card-img-github' style='width: 50%;'></a>
+					<div class="container">
+						<h4><b>Github</b></h4>
+						<p>Source Code for Gamey Desktop <strong>and</strong> Gamey Web!</p>
+					</div>
+				</center>
+			</div>
+
+			<div class="card">
+				<center>
+					<a href='categories.html'><img src='web-icons/gamey-web-ico.png'  id='card-img-gameyweb' style='width: 50%;'></a>
+					<div class="container">
+						<h4><b>Gamey Web</b></h4>
+						<p>Download Gamey's wide selection of games! <strong>No app needed.</strong></p>
+					</div>
+				</center>
+			</div>
+
+			<div class="card">
+				<center>
+					<a href='https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/readme/'><img src='web-icons/document-ico.png'  id='card-img-readmd' style='width: 50%;'></a>
+					<div class="container">
+						<h4><b>README</b></h4>
+						<p>All the information you need to know about <strong>Gamey</strong></p>
+					</div>
+				</center>
+			</div>
+
+		</div>
+	</div>
+
+	<div id="footer_wrap" class="outer">
+		<footer class="inner">
+			<p class="copyright">© 2022 byte127x</p>
+		</footer>
+	</div>
+</body>
