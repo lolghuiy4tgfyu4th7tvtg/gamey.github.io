@@ -1,7 +1,0 @@
-GTTTATINT Original|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_dnc.swf|swf
-GTTTATINT 2|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/gtttatint2.swf|swf
-GTTTATINT 3D|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag3d.swf|swf
-GTTTATINT Lava|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_lava.swf|swf
-GTTTATINT Color|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/ag-color.swf|swf
-GTTTATINT Bullets|https://lolghuiy4tgfyu4th7tvtg.github.io/gamey/gtttatint/awesome_game_sb.swf|swf
-|end|
